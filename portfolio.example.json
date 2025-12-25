@@ -1,0 +1,48 @@
+{
+    "cash_balances": {
+        "USD": 5000.0,
+        "JPY": 150000.0,
+        "SGD": 500.0,
+        "IDR": 2500000.0
+    },
+    "assets": [
+        {
+            "ticker": "VWRA.L",
+            "target_percent": 60.0,
+            "holdings": [
+                {
+                    "account": "Interactive Brokers",
+                    "shares": 50.5,
+                    "avg_price": 115.20
+                }
+            ]
+        },
+        {
+            "ticker": "CSPX.L",
+            "target_percent": 30.0,
+            "holdings": [
+                {
+                    "account": "Standard Chartered",
+                    "shares": 10.0,
+                    "avg_price": 450.00
+                },
+                {
+                    "account": "Interactive Brokers",
+                    "shares": 5.0,
+                    "avg_price": 465.50
+                }
+            ]
+        },
+        {
+            "ticker": "BTC-USD",
+            "target_percent": 10.0,
+            "holdings": [
+                {
+                    "account": "Cold Wallet",
+                    "shares": 0.05,
+                    "avg_price": 45000.00
+                }
+            ]
+        }
+    ]
+}
