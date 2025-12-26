@@ -2,6 +2,14 @@
 
 A full-stack, professional portfolio management and automated rebalancing tool. This project is built using a **Clean Architecture** approach, separating a **FastAPI Backend** from a **Streamlit Frontend**.
 
+## Preview
+
+
+
+https://github.com/user-attachments/assets/7fa0359c-2ddb-4bb0-8384-561849fe80c0
+
+
+
 ## Background
 
 Maintaining a target asset allocation is the most important factor in long-term investment success. However, manually calculating how many shares to buy across multiple brokerage accounts and currencies is error-prone and tedious.
